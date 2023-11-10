@@ -3,6 +3,6 @@ package com.hk.calboard.controller;
 public class TestController {
 
 	public String testMain() {
-		return "test";
+		return "test23232323232";
 	}
 }
